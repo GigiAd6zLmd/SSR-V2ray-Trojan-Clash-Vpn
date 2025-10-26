@@ -19,4 +19,4 @@
 | CC(最萌の云)     |   [官网](https://main.cute-cloud.de/register?code=BEj51dOv)    | 全独家隧道技术、智能接入点分配、先进的流媒体解锁                 | BEj51dOv |
 | 快柠檬Falemon   |          [官网](https://corelem.org/s/win110/rvijesy)          | 顷刻加载，快如闪电，专为中国用户优化加速的优质网络中继              | RVIJESY  |
 | 闪电猫-SPEEDCAT | [官网](https://webinv02.sc-aff.cc/auth/register?code=VfOmNcC2) | 主打快速稳定，全专线IPLC，没有倍率套路                    | VfOmNcC2 |
-| 红杏           |     [官网](https://wwd.h86x.com/#/register?code=QGoTw2nm)      | ❤️❤️❤️ 全IEPL专线！❤️ 全IEPL专线！！❤️ 全IEPL专线！！！ | QGoTw2nm |
+| 红杏           |     [官网](https://wwd.h86x.com/#/register?code=QGoTw2nm)      | ❤️❤️ 全IEPL专线！❤️ 全IEPL专线！！❤️ 全IEPL专线！！！ | QGoTw2nm |
