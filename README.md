@@ -25,13 +25,13 @@
 
 #### 喵子科学站
 
-官方网站：[fly.mzkxz.us](https://fly.mzkxz.top/auth/register?code=B4w3)
+  官方网站：[fly.mzkxz.us](https://fly.mzkxz.top/auth/register?code=B4w3)
 
-邀请码：B4w3
+  邀请码：B4w3
 
-新用户福利：15G（3天有效期）
+  新用户福利：15G（3天有效期）
 
-最便宜套餐订阅19.50元110G/月
+  最便宜套餐订阅19.50元110G/月
 
 ## 更多参考资料
 - #### 喜欢本项目右上角点个（Star）吧！！！
