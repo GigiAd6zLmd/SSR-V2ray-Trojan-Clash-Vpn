@@ -44,6 +44,27 @@
 - 喵子科学站更详细的介绍请前往：（ [详情](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn/blob/master/%E8%AF%84%E6%B5%8B/%E2%9C%88%EF%B8%8F%E3%80%90%E9%A1%B6%E7%BA%A7%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E3%80%91%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99%20-%20%E4%BE%BF%E5%AE%9C%E5%AE%9E%E6%83%A0%E3%80%81%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E3%80%81%E7%A8%B3%E5%AE%9A%E5%8F%AF%E9%9D%A0.md#%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99%E8%AF%A6%E7%BB%86%E8%AF%84%E6%B5%8B) ）
 
  喵子科学站我多年（7年之久）自用机场，节点质量和速度很稳定，也支持Netflix等流媒体，强力推荐！！！ 
+***
+#### 宝贝云机场
+
+  官方网站：[bby010.com](https://web1.bby004.com/#/register?code=MXAqpLXS)
+
+  邀请码：MXAqpLXS
+
+  最便宜套餐订阅：15.00元 1024G/月
+  
+ 流量套餐|费用|流量|节点|适用人群|下单链接|
+ ----|---|---|---|---|---|
+ L1Air轻量|15.00元/月|1024G|节点遍布全球国家|轻度用户|[官网购买](https://web1.bby004.com/#/register?code=MXAqpLXS)|
+L2Air标准|25.00元/月|2048G|节点遍布全球国家|日常使用|[官网购买](https://web1.bby004.com/#/register?code=MXAqpLXS)|
+ 不限时Air|55.00元 |600G|60+节点遍布全球|“不计流量”节点免扣流量|[官网购买](https://web1.bby004.com/#/register?code=MXAqpLXS)|
+不限时Pro|99.00元 |1400G|节点遍布全球30+国家|“不计流量”节点免扣流量|[官网购买](https://web1.bby004.com/#/register?code=MXAqpLXS) |
+不限时Max|399.00元 |8000G|节点遍布全球30+国家|“不计流量”节点免扣流量|[官网购买](https://web1.bby004.com/#/register?code=MXAqpLXS) |
+
+- 以上所有套餐均提供月付，季付，年付，两年等多种付费周期可供选择。（ [汇总](https://github.com/GigiAd6zLmd/Telegram-Channel-Group?tab=readme-ov-file#2025%E5%B9%B4%E7%A8%B3%E5%AE%9A%E5%A5%BD%E7%94%A8%E7%9A%84%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E8%AF%84%E6%B5%8B-%E6%B1%87%E6%80%BB-) ）
+- 宝贝云机场详细的介绍：（ [详情](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn/blob/master/%E8%AF%84%E6%B5%8B/%E2%9C%88%EF%B8%8F%E3%80%90%E9%A1%B6%E7%BA%A7%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E3%80%91%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99%20-%20%E4%BE%BF%E5%AE%9C%E5%AE%9E%E6%83%A0%E3%80%81%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E3%80%81%E7%A8%B3%E5%AE%9A%E5%8F%AF%E9%9D%A0.md#%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99%E8%AF%A6%E7%BB%86%E8%AF%84%E6%B5%8B) ）
+
+ 宝贝云机场极致流畅带来丝滑享受，流媒体全解锁，提供免费苹果id，八年老厂，新加坡实力团队雄厚技术支持！！！
 
 ## 更多参考资料
 - #### 喜欢本项目右上角点个（Star）吧！！！
