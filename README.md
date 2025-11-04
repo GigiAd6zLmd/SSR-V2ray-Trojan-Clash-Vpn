@@ -21,7 +21,7 @@
 - 线路要稳定，不会频繁更换订阅链接
 - 推荐机场都是我使用过觉得比较不错的才会发文推荐，让网友们放心选购
 
-### 简介（ [汇总](https://github.com/GigiAd6zLmd/Telegram-Channel-Group?tab=readme-ov-file#2025%E5%B9%B4%E7%A8%B3%E5%AE%9A%E5%A5%BD%E7%94%A8%E7%9A%84%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E8%AF%84%E6%B5%8B-%E6%B1%87%E6%80%BB-) ）
+### 简介（ [汇总](https://github.com/GigiAd6zLmd/Telegram-Channel-Group?tab=readme-ov-file#2025%E5%B9%B4%E7%A8%B3%E5%AE%9A%E5%A5%BD%E7%94%A8%E7%9A%84%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E8%AF%84%E6%B5%8B%E7%AE%80%E8%AF%84-%E7%82%B9%E5%90%8D%E5%AD%97%E7%9C%8B%E6%9C%BA%E5%9C%BA%E7%AE%80%E4%BB%8B) ）
 
 #### 喵子科学站
 
@@ -40,7 +40,7 @@
  大量管饱 | 36.80元 | 275G | 50+LEPL专线 | 重度用户 |[官网购买](https://fly.mzkxz.top/auth/register?code=B4w3) |
  无限流量 | 60.00元 | 无限流量 | 50+LEPL专线 | “不计流量”节点免扣流量 |[官网购买](https://fly.mzkxz.top/auth/register?code=B4w3) |
 
-- 以上所有套餐均提供月付，季付，年付，两年等多种付费周期可供选择。（ [汇总](https://github.com/GigiAd6zLmd/Telegram-Channel-Group?tab=readme-ov-file#2025%E5%B9%B4%E7%A8%B3%E5%AE%9A%E5%A5%BD%E7%94%A8%E7%9A%84%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E8%AF%84%E6%B5%8B-%E6%B1%87%E6%80%BB-) ）
+- 以上所有套餐均提供月付，季付，年付，两年等多种付费周期可供选择。（ [汇总](https://github.com/GigiAd6zLmd/Telegram-Channel-Group?tab=readme-ov-file#2025%E5%B9%B4%E7%A8%B3%E5%AE%9A%E5%A5%BD%E7%94%A8%E7%9A%84%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E8%AF%84%E6%B5%8B%E7%AE%80%E8%AF%84-%E7%82%B9%E5%90%8D%E5%AD%97%E7%9C%8B%E6%9C%BA%E5%9C%BA%E7%AE%80%E4%BB%8B) ）
 - 喵子科学站更详细的介绍请前往：（ [详情](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn/blob/master/%E8%AF%84%E6%B5%8B/%E2%9C%88%EF%B8%8F%E3%80%90%E9%A1%B6%E7%BA%A7%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E3%80%91%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99%20-%20%E4%BE%BF%E5%AE%9C%E5%AE%9E%E6%83%A0%E3%80%81%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E3%80%81%E7%A8%B3%E5%AE%9A%E5%8F%AF%E9%9D%A0.md#%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99%E8%AF%A6%E7%BB%86%E8%AF%84%E6%B5%8B) ）
 
  喵子科学站我多年（7年之久）自用机场，节点质量和速度很稳定，也支持Netflix等流媒体，强力推荐！！！ 
@@ -62,7 +62,7 @@ L2Air标准|25.00元/月|2048G|节点遍布全球国家|日常使用|[官网购�
 不限时Max|399.00元 |8000G|节点遍布全球30+国家|“不计流量”节点免扣流量|[官网购买](https://web1.bby004.com/#/register?code=MXAqpLXS) |
 
 - 以上所有套餐均提供月付，季付，年付，两年等多种付费周期可供选择。（ [汇总](https://github.com/GigiAd6zLmd/Telegram-Channel-Group?tab=readme-ov-file#2025%E5%B9%B4%E7%A8%B3%E5%AE%9A%E5%A5%BD%E7%94%A8%E7%9A%84%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E8%AF%84%E6%B5%8B-%E6%B1%87%E6%80%BB-) ）
-- 宝贝云机场详细的介绍：（ [详情](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn/blob/master/%E8%AF%84%E6%B5%8B/%E2%9C%88%EF%B8%8F%E3%80%90%E9%A1%B6%E7%BA%A7%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E3%80%91%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99%20-%20%E4%BE%BF%E5%AE%9C%E5%AE%9E%E6%83%A0%E3%80%81%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E3%80%81%E7%A8%B3%E5%AE%9A%E5%8F%AF%E9%9D%A0.md#%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99%E8%AF%A6%E7%BB%86%E8%AF%84%E6%B5%8B) ）
+- 宝贝云机场详细的介绍：（ [详情](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn/blob/master/%E8%AF%84%E6%B5%8B/%E2%9C%88%EF%B8%8F%E8%80%81%E7%89%8C%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E3%80%90%E5%AE%9D%E8%B4%9D%E4%BA%91%E3%80%91-%20%E4%BE%BF%E5%AE%9C%E5%AE%9E%E6%83%A0%E3%80%81%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94.md#%E5%AE%9D%E8%B4%9D%E4%BA%91%E6%9C%BA%E5%9C%BA%E8%AF%A6%E7%BB%86%E8%AF%84%E6%B5%8B) ）
 
  宝贝云机场极致流畅带来丝滑享受，流媒体全解锁，提供免费苹果id，八年老厂，新加坡实力团队雄厚技术支持！！！
 
