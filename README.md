@@ -55,8 +55,8 @@
   
  流量套餐|费用|流量|节点|适用人群|下单链接|
  ----|---|---|---|---|---|
- L1Air轻量|15.00元/月|1024G|节点遍布全球国家|轻度用户|[官网购买](https://web1.bby004.com/#/register?code=MXAqpLXS)|
-L2Air标准|25.00元/月|2048G|节点遍布全球国家|日常使用|[官网购买](https://web1.bby004.com/#/register?code=MXAqpLXS)|
+ L1Air轻量|15.00元|1024G|节点遍布全球国家|轻度用户|[官网购买](https://web1.bby004.com/#/register?code=MXAqpLXS)|
+L2Air标准|25.00元|2048G|节点遍布全球国家|日常使用|[官网购买](https://web1.bby004.com/#/register?code=MXAqpLXS)|
  不限时Air|55.00元 |600G|60+节点遍布全球|“不计流量”节点免扣流量|[官网购买](https://web1.bby004.com/#/register?code=MXAqpLXS)|
 不限时Pro|99.00元 |1400G|节点遍布全球30+国家|“不计流量”节点免扣流量|[官网购买](https://web1.bby004.com/#/register?code=MXAqpLXS) |
 不限时Max|399.00元 |8000G|节点遍布全球30+国家|“不计流量”节点免扣流量|[官网购买](https://web1.bby004.com/#/register?code=MXAqpLXS) |
