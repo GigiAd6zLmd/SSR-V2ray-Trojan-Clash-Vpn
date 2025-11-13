@@ -1,4 +1,4 @@
-✈️ 2025年实测 Clash for android 下载与安装，简单易用，适合新手。
+2025年实测 Clash for android 下载与安装，简单易用，适合新手。
 
 ## 下载安装
 
