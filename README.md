@@ -67,4 +67,10 @@ L2Air标准|25.00元|2048G|节点遍布全球国家|日常使用|[官网购买](
  宝贝云机场极致流畅带来丝滑享受，流媒体全解锁，提供免费苹果id，八年老厂，新加坡实力团队雄厚技术支持！！！
 
 ## 更多参考资料
+ ### 客户端使用方法
+
+- 📱 [clash for Android](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn/blob/master/%E8%AF%84%E6%B5%8B/%E2%9C%88%EF%B8%8F%202025%E5%B9%B4%20Clash%20for%20android%20%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85.md#%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85)
+- 🖥 [clash for Windows](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn/blob/master/%E8%AF%84%E6%B5%8B/%E2%9C%88%EF%B8%8F%20windows%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%20clash%E3%80%81clash%20verge.md#%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85)
+- 🍎 [clash for iOS](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn/blob/master/%E8%AF%84%E6%B5%8B/%F0%9F%9A%80%20Shadowrocket(iOS%E5%B0%8F%E7%81%AB%E7%AE%AD)%20%E6%96%B0%E6%89%8B%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md#0-shadowrocket%E4%BB%8B%E7%BB%8D)
+***
 - #### 喜欢本项目右上角点个（Star）吧！！！
