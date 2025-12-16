@@ -66,7 +66,7 @@ L2Air标准|25.00元|2048G|节点遍布全球国家|日常使用|[官网购买](
 
  宝贝云机场极致流畅带来丝滑享受，流媒体全解锁，提供免费苹果id，八年老厂，新加坡实力团队雄厚技术支持！！！
 ***
-#### [CuteCloud最萌の云](https://main.cute-cloud.de/register?code=BEj51dOv)
+#### CuteCloud最萌の云
 
 官方网站：[https://main.cute-cloud.de](https://main.cute-cloud.de/register?code=BEj51dOv)
 
