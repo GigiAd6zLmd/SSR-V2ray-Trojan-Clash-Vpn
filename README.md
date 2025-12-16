@@ -66,6 +66,31 @@ L2Air标准|25.00元|2048G|节点遍布全球国家|日常使用|[官网购买](
 
  宝贝云机场极致流畅带来丝滑享受，流媒体全解锁，提供免费苹果id，八年老厂，新加坡实力团队雄厚技术支持！！！
 ***
+#### [CuteCloud最萌の云](https://main.cute-cloud.de/register?code=BEj51dOv)
+
+官方网站：[https://main.cute-cloud.de](https://main.cute-cloud.de/register?code=BEj51dOv)
+
+邀请码：BEj51dOv
+
+最便宜套餐订阅：试用装 2.00元 5G/月      小杯 10元 100G/月
+
+|流量套餐|费用|流量|节点|适用人群|下单链接|
+|---|---|---|---|---|---|
+|试用装|2.00元|5G|节点遍布全球国家|体验用户|[官网购买](https://main.cute-cloud.de/register?code=BEj51dOv)|
+|小杯|10.00元|100G|节点遍布全球国家|轻度用户|[官网购买](https://main.cute-cloud.de/register?code=BEj51dOv)|
+|中杯|20.00元|225G|全球多个国家/地区节点|中度用户|[官网购买](https://main.cute-cloud.de/register?code=BEj51dOv)|
+|大杯|39.99元|500G|全球多个国家/地区节点|重度用户|[官网购买](https://main.cute-cloud.de/register?code=BEj51dOv)|
+|超大杯|79.99元|1100G|多个国家/地区节点|发烧友|[官网购买](https://main.cute-cloud.de/register?code=BEj51dOv)|
+|全家桶|150.00元|2250G|多个国家/地区节点|发烧友|[官网购买](https://main.cute-cloud.de/register?code=BEj51dOv)|
+|不限时流量-A|66.66元|300G|多个国家/地区节点|永久流量用完为止|[官网购买](https://main.cute-cloud.de/register?code=BEj51dOv)|
+|不限时流量-C|100.00元|500G|多个国家/地区节点|永久流量用完为止|[官网购买](https://main.cute-cloud.de/register?code=BEj51dOv)|
+|不限时流量-Z|200.00元|1000G|多个国家/地区节点|永久流量用完为止|[官网购买](https://main.cute-cloud.de/register?code=BEj51dOv)|
+
+- 以上所有套餐均提供月付，季付，年付等多种付费周期可供选择。（ [汇总](https://github.com/GigiAd6zLmd/Telegram-Channel-Group/tree/master#2025%E5%B9%B411%E6%9C%88%E4%BB%B7%E6%A0%BC%E4%BE%BF%E5%AE%9C%E8%8A%82%E7%82%B9%E7%A8%B3%E5%AE%9A%E5%A5%BD%E7%94%A8%E7%9A%84%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E8%AF%84%E6%B5%8B%E7%AE%80%E8%AF%84-%E7%82%B9%E5%90%8D%E5%AD%97%E7%9C%8B%E6%9C%BA%E5%9C%BA%E7%AE%80%E4%BB%8B) ）
+- CuteCloud最萌の云机场详细的介绍：（ [详情](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn/blob/master/%E8%AF%84%E6%B5%8B/2025%E7%A8%B3%E5%AE%9A%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9ACuteCloud(%E6%9C%80%E8%90%8C%E3%81%AE%E4%BA%91)%E8%AF%84%E6%B5%8B%EF%BC%88%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF%E3%80%81%E6%80%A7%E4%BB%B7%E6%AF%94%E4%B9%8B%E9%80%89%E3%80%81%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%EF%BC%89.md) ）
+
+CuteCloud最萌の云机场老牌主力机场，顶级线路，解锁全面，支持ChatGPT|NF|Disney+等流媒体和Ai服务，并提供相关的共享账户。速度与稳定性极佳，Youtube全天8K流畅。兼容性好，适配各种客户端！！！
+***
 ## 更多参考资料
  ### 客户端使用方法
 
